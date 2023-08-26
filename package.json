@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "puppeteer": "^19.8.5"
+  },
+  "name": "puppeteer-scraping",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahchen1/puppeteer-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahchen1/puppeteer-scraping/issues"
+  },
+  "homepage": "https://github.com/noahchen1/puppeteer-scraping#readme",
+  "description": ""
+}
